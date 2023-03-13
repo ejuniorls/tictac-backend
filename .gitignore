@@ -1,5 +1,6 @@
 # files
 .env
+.gitignore
 
 # folders
 node_modules
